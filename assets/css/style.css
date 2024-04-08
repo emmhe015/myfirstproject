@@ -27,6 +27,10 @@ main {
     /* push footer down*/
     flex: 1 0 auto;
 }
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:antiquewhite;
+}
 
 /*Footer*/
 footer {
